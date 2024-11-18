@@ -12,7 +12,7 @@ The solutions are organized into directories based on the problem categories ava
 └── 📁 Introductory Problems/\
 <details>
     <summary> Introductory Problems </summary>
-    <ul style="list-style-type:square;">
+    <ul style="list-style-type:none;">
         <li>✔ Weird Algorithm</li>
         <li>✔ Missing Number</li>
         <li>✔ Repetitions</li>
