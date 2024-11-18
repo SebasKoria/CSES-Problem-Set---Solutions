@@ -8,24 +8,15 @@ The **CSES Problem Set** is a collection of competitive programming problems des
 ## 🗂️ Repository Structure & Progress
 The solutions are organized into directories based on the problem categories available on the CSES platform:
 
-📂 solutions/
-
-├── 📁 Introductory Problems/
-
-├── 📁 Sorting and Searching/
-
-├── 📁 Dynamic Programming/
-
-├── 📁 Graph Algorithms/
-
-├── 📁 Range Queries/
-
-├── 📁 Mathematics/
-
-├── 📁 String Algorithms/
-
-└── 📁 Additional Problems/
-
+📂 solutions/\
+├── 📁 Introductory Problems/\
+├── 📁 Sorting and Searching/\
+├── 📁 Dynamic Programming/\
+├── 📁 Graph Algorithms/\
+├── 📁 Range Queries/\
+├── 📁 Mathematics/\
+├── 📁 String Algorithms/\
+└── 📁 Additional Problems/\
 
 Each solution includes:
 - The code implementation.
