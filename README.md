@@ -8,10 +8,8 @@ The **CSES Problem Set** is a collection of competitive programming problems des
 ## 🗂️ Repository Structure & Progress
 The solutions are organized into directories based on the problem categories available on the CSES platform:
 
-📂 solutions/\
-└── 📁 Introductory Problems/\
 <details>
-    <summary> Introductory Problems </summary>
+    <summary> 📁 Introductory Problems </summary>
     <ul>
         <li>✔ Weird Algorithm</li>
         <li>✔ Missing Number</li>
@@ -34,9 +32,8 @@ The solutions are organized into directories based on the problem categories ava
         <li>❔ Grid Paths</li>
     </ul>
 </details>
-
-└── 📁 Sorting and Searching/\
 <details>
+    <summary> 📁 Sorting and Searching </summary>
     <ul>
         <li>✔ Distinct Numbers</li>
         <li>✔ Apartments</li>
