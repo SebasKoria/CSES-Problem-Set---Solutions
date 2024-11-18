@@ -5,10 +5,12 @@ Welcome to my repository of solutions to the problems from the [CSES Problem Set
 ## 🌟 About the CSES Problem Set
 The **CSES Problem Set** is a collection of competitive programming problems designed to test and enhance problem-solving skills. It is widely recognized as a valuable resource for aspiring competitive programmers.
 
-## 🗂️ Repository Structure & Progress
+## Progress
+33 Problems solved out of 300
+
+## 🗂️ Repository Structure
 The solutions are organized into directories based on the problem categories available on the CSES platform:
 
-## 33 Problems solved out of 300
 <details>
     <summary>📁 Introductory Problems</summary>
     <ul>
