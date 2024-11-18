@@ -11,60 +11,60 @@ The solutions are organized into directories based on the problem categories ava
 📂 solutions/\
 └── 📁 Introductory Problems/\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Weird Algorithm\
-    ├── ✔ Missing Number\
-    ├── ✔ Repetitions\
-    ├── ✔ Increasing Array\
-    ├── ✔ Permutations\
-    ├── ✔ Number Spiral\
-    ├── ✔ Two Knights\
-    ├── ✔ Two Sets\
-    ├── ✔ Bit Strings\
-    ├── ✔ Trailing Zeros\
-    ├── ✔ Coin Piles\
-    ├── ✔ Palindrome Reorder\
-    ├── ✔ Gray Code\
-    ├── ❔ Tower of Hanoi\
-    ├── ❔ Creating Strings\
-    ├── ❔ Apple Division\
-    ├── ❔ Chessboard and Queens\
-    ├── ❔ Digit Queries\
-    └── ❔ Grid Paths\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Missing Number\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Repetitions\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Increasing Array\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Permutations\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Number Spiral\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Two Knights\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Two Sets\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Bit Strings\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Trailing Zeros\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Coin Piles\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Palindrome Reorder\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Gray Code\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Tower of Hanoi\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Creating Strings\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Apple Division\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Chessboard and Queens\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Digit Queries\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ❔ Grid Paths\
 └── 📁 Sorting and Searching/\
-    ├── ✔ Distinct Numbers\ 20
-    ├── ✔ Apartments\
-    ├── ✔ Ferris Wheel\
-    ├── ✔ Concert Tickets\
-    ├── ✔ Restaurant Customers\
-    ├── ✔ Movie Festival\
-    ├── ✔ Sum of Two Values\
-    ├── ✔ Maximum Subarray Sum\
-    ├── ❔ Stick Lengths\
-    ├── ❔ Missing Coin Sum\
-    ├── ❔ Collecting Numbers\
-    ├── ❔ Collecting Numbers II\
-    ├── ❔ Playlist\
-    ├── ❔ Towers\
-    ├── ❔ Traffic Lights\
-    ├── ❔ Josephus Problem I\
-    ├── ❔ Josephus Problem II\
-    ├── ❔ Nested Ranges Check\
-    ├── ❔ Nested Ranges Count\
-    ├── ❔ Room Allocation\
-    ├── ❔ Factory Machines\ 40
-    ├── ❔ Tasks and Deadlines\
-    ├── ❔ Reading Books\
-    ├── ❔ Sum of Three Values\
-    ├── ❔ Sum of Four Values\
-    ├── ❔ Nearest Smaller Values\
-    ├── ❔ Subarray Sums I\
-    ├── ❔ Subarray Sums II\
-    ├── ❔ Subarray Divisibility\
-    ├── ❔ Subarray Distinct Values\
-    ├── ❔ Array Division\
-    ├── ❔ Sliding Window Median\
-    ├── ❔ Sliding Window Cost\
-    ├── ❔ Movie Festival II\
-    └── ❔ Maximum Subarray Sum II\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Distinct Numbers\ 20
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Apartments\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Ferris Wheel\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Concert Tickets\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Restaurant Customers\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Movie Festival\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Sum of Two Values\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Maximum Subarray Sum\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Stick Lengths\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Missing Coin Sum\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Collecting Numbers\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Collecting Numbers II\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Playlist\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Towers\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Traffic Lights\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Josephus Problem I\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Josephus Problem II\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Nested Ranges Check\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Nested Ranges Count\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Room Allocation\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Factory Machines\ 40
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Tasks and Deadlines\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Reading Books\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sum of Three Values\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sum of Four Values\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Nearest Smaller Values\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Sums I\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Sums II\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Divisibility\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Distinct Values\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Array Division\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sliding Window Median\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sliding Window Cost\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Movie Festival II\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ❔ Maximum Subarray Sum II\
 └── 📁 Dynamic Programming/\
     ├── ✔ Dice Combinations\
     ├── ✔ Minimizing Coins\
