@@ -96,241 +96,272 @@ The solutions are organized into directories based on the problem categories ava
         <li>❔ Counting Numbers</li>
     </ul>
 </details>
-
-└── 📁 Graph Algorithms/\
-    ├── ✔ Counting Rooms\
-    ├── ✔ Labyrinth\
-    ├── ✔ Building Roads\
-    ├── ✔ Message Route\
-    ├── ✔ Building Teams\
-    ├── ✔ Round Trip\
-    ├── ✔ Monsters\
-    ├── ✔ Shortest Routes I\
-    ├── ✔ Shortest Routes II\
-    ├── ❔ High Score\
-    ├── ❔ Flight Discount\
-    ├── ❔ Cycle Finding\
-    ├── ❔ Flight Routes\
-    ├── ❔ Round Trip II\
-    ├── ❔ Couse Schedule\
-    ├── ❔ Longest Flight Route\
-    ├── ❔ Game Routes\
-    ├── ❔ Investigation\
-    ├── ❔ Planets Queries I\
-    ├── ❔ Planets Queries II\
-    ├── ❔ Planets Cycles\
-    ├── ❔ Road Reparation\
-    ├── ❔ Road Construction\
-    ├── ❔ Flight Routes Check\
-    ├── ❔ Planets and Kingdoms\
-    ├── ❔ Giant Pizza\
-    ├── ❔ Coin Collector\
-    ├── ❔ Mail Delivery\
-    ├── ❔ De Bruijn Sequence\
-    ├── ❔ Teleporters Path\
-    ├── ❔ Hamiltonian Flights\
-    ├── ❔ Knight's Tour\
-    ├── ❔ Download Speed\
-    ├── ❔ Police Chase\
-    ├── ❔ School Dance\
-    └── ❔ Distinct Routes\
-└── 📁 Range Queries/\
-    ├── ❔ Static Range Sum Queries\
-    ├── ❔ Static Range Minimum Queries\
-    ├── ❔ Dynamic Range Sum Queries\
-    ├── ❔ Dynamid Range Minimum Queries\
-    ├── ❔ Range Xor Queries\
-    ├── ❔ Forest Queries\
-    ├── ❔ Hotel Queries\
-    ├── ❔ List Removals\
-    ├── ❔ Salary Queries\
-    ├── ❔ Prefix Sum Queries\
-    ├── ❔ Pizzeria Queries\
-    ├── ❔ Subarray Sum Queries\
-    ├── ❔ Distinct Values Queries\
-    ├── ❔ Increasing Array Queries\
-    ├── ❔ Forest Queries II\
-    ├── ❔ Range Updates and Sums\
-    ├── ❔ Polynomial Queries\
-    └── ❔ Range Queries and Copies\
-└── 📁 Tree Algorithms/\
-    ├── ❔ Subordinates\
-    ├── ❔ Tree Matching\
-    ├── ❔ Tree Diameter\
-    ├── ❔ Tree Distances I\
-    ├── ❔ Tree Distances II\
-    ├── ❔ Company Queries I\
-    ├── ❔ Company Queries II\
-    ├── ❔ Distance Queries\
-    ├── ❔ Counting Paths\
-    ├── ❔ Subtree Queries\
-    ├── ❔ Path Queries\
-    ├── ❔ Path Queries II\
-    ├── ❔ Distinct Colors\
-    ├── ❔ Finding a Centroid\
-    ├── ❔ Fixed-Lenght Paths I\
-    └── ❔ Fixed-Lenght Paths II\
-└── 📁 Mathematics/\
-    ├── ❔ Josephus Queries\
-    ├── ❔ Exponentiation\
-    ├── ❔ Exponentiation II\
-    ├── ❔ Counting Divisors\
-    ├── ❔ Common Divisors\
-    ├── ❔ Sum of Divisors\
-    ├── ❔ Divisor Analysis\
-    ├── ❔ Prime Multiples\
-    ├── ❔ Counting Coprime Pairs\
-    ├── ❔ Binomial Coefficients\
-    ├── ❔ Creating Strings II\
-    ├── ❔ Distributing Apples\
-    ├── ❔ Christmas Party\
-    ├── ❔ Bracket Sequences I\
-    ├── ❔ Bracket Sequences II\
-    ├── ❔ Counting Necklaces\
-    ├── ❔ Counting Grids\
-    ├── ❔ Fibonacci Numbers\
-    ├── ❔ Throwing Dice\
-    ├── ❔ Graph Paths I\
-    ├── ❔ Graph Paths II\
-    ├── ❔ Dice Probability\
-    ├── ❔ Moving Robots\
-    ├── ❔ Candy Lottery\
-    ├── ❔ Inversion Probability\
-    ├── ❔ Stick Game\
-    ├── ❔ Nim Game I\
-    ├── ❔ Nim Game II\
-    ├── ❔ Stair Game\
-    ├── ❔ Grundy's Game\
-    └── ❔ Another Game\
-└── 📁 String Algorithms/\
-    ├── ❔ Word Combinations\
-    ├── ❔ String Matching\
-    ├── ❔ Finding Borders\
-    ├── ❔ Finding Periods\
-    ├── ❔ Minimal Rotation\
-    ├── ❔ Longest Palindrome\
-    ├── ❔ Required Substring\
-    ├── ❔ Palindrome Queries\
-    ├── ❔ Finding Patterns\
-    ├── ❔ Counting Patterns\
-    ├── ❔ Pattern Positions\
-    ├── ❔ Distinct Substrings\
-    ├── ❔ Repeating Substring\
-    ├── ❔ String Functions\
-    ├── ❔ Substring Order I\
-    ├── ❔ Substring Order II\
-    └── ❔ Substring Distribution\
-└── 📁 Geometry/\
-    ├── ❔ Point Location Test\
-    ├── ❔ Line Segment Intersection\
-    ├── ❔ Polygon Area\
-    ├── ❔ Point in Polygon\
-    ├── ❔ Polygon Lattice Points\
-    ├── ❔ Minimum Euclidean Distance\
-    └── ❔ Convex Hull\
-└── 📁 Advanced Techniques/\
-    ├── ❔ Meet in the Middle\
-    ├── ❔ Hamming Distance\
-    ├── ❔ Beautiful Subgrids\
-    ├── ❔ Reachable Nodes\
-    ├── ❔ Reachability Queries\
-    ├── ❔ Cut and Paste\
-    ├── ❔ Substring Reversals\
-    ├── ❔ Reversals and Sums\
-    ├── ❔ Necessary Roads\
-    ├── ❔ Necessary Cities\
-    ├── ❔ Eulerian Subgraphs\
-    ├── ❔ Monster Game I\
-    ├── ❔ Monster Game II\
-    ├── ❔ Subarray Squares\
-    ├── ❔ Houses and Schools\
-    ├── ❔ Knuth Division\
-    ├── ❔ Apples and Bananas\
-    ├── ❔ One Bit Positions\
-    ├── ❔ Signal Processing\
-    ├── ❔ New Roads Queries\
-    ├── ❔ Dynamic Connectivity\
-    ├── ❔ Parcel Delivery\
-    ├── ❔ Task Assignment\
-    └── ❔ Distinct Routes II\
-└── 📁 Additional Problems/\
-    ├── ❔ Shortest Subsequence\
-    ├── ❔ Counting Bits\
-    ├── ❔ Swap Game\
-    ├── ❔ Prüfer Code\
-    ├── ❔ Acyclic Graph Edges\
-    ├── ❔ Strongly Connected Edges\
-    ├── ❔ Even Outdegree Edges\
-    ├── ❔ Multiplication Table\
-    ├── ❔ Advertisement\
-    ├── ❔ Special Substrings\
-    ├── ❔ Permutation Inversions\
-    ├── ❔ Maximum Xor Subarray\
-    ├── ❔ Movie Festival Queries\
-    ├── ❔ Chess Tournament\
-    ├── ❔ Tree Traversals\
-    ├── ❔ Network Renovation\
-    ├── ❔ Graph Girth\
-    ├── ❔ Intersection Points\
-    ├── ❔ Inverse Inversions\
-    ├── ❔ Monotone Subsequences\
-    ├── ❔ String Reorder\
-    ├── ❔ Stack Weights\
-    ├── ❔ Pyramid Array\
-    ├── ❔ Increasing Subsequence II\
-    ├── ❔ String Removals\
-    ├── ❔ Bit Inversions\
-    ├── ❔ Xor Pyramid\
-    ├── ❔ Writing Numbers\
-    ├── ❔ String Transform\
-    ├── ❔ Letter Pair Move Game\
-    ├── ❔ Maximum Building I\
-    ├── ❔ Sorting Methods\
-    ├── ❔ Cyclic Array\
-    ├── ❔ List of Sums\
-    ├── ❔ Increasing Array II\
-    ├── ❔ Food Division\
-    ├── ❔ Bit Problem\
-    ├── ❔ Swap Round Sorting\
-    ├── ❔ Binary Subsequences\
-    ├── ❔ Tree Isomorphism I\
-    ├── ❔ Counting Sequences\
-    ├── ❔ Critical Cities\
-    ├── ❔ School Excursion\
-    ├── ❔ Coin Grid\
-    ├── ❔ Robot Path\
-    ├── ❔ Programmers and Artists\
-    ├── ❔ Course Schedule II\
-    ├── ❔ Removing Digits II\
-    ├── ❔ Coin Arrangement\
-    ├── ❔ Counting Bishops\
-    ├── ❔ Grid Puzzle I\
-    ├── ❔ Grid Puzzle II\
-    ├── ❔ Empty String\
-    ├── ❔ Grid Paths\
-    ├── ❔ Bit Substrings\
-    ├── ❔ Reversal Sorting\
-    ├── ❔ Counting Reorders\
-    ├── ❔ Book Shop II\
-    ├── ❔ Network Breakdown\
-    ├── ❔ Visiting Cities\
-    ├── ❔ Missing Coin Sum Queries\
-    ├── ❔ Number Grid\
-    ├── ❔ Maximum Building II\
-    ├── ❔ Filling Trominos\
-    ├── ❔ Stick Divisions\
-    ├── ❔ Coding Company\
-    ├── ❔ Flight Route Requests\
-    ├── ❔ Two Stacks Sorting\
-    ├── ❔ Tree Isomorphism II\
-    ├── ❔ Forbidden Cities\
-    ├── ❔ Area of Rectangles\
-    ├── ❔ Grid Completion\
-    ├── ❔ Creating Offices\
-    ├── ❔ Permutations II\
-    ├── ❔ Functional Graph Distribution\
-    ├── ❔ New Flight Routes\
-    └── ❔ Grid Path Construction\
+<details>
+    <summary>📁 Graph Algorithms</summary>
+    <ul>
+        <li>✔ Counting Rooms</li>
+        <li>✔ Labyrinth</li>
+        <li>✔ Building Roads</li>
+        <li>✔ Message Route</li>
+        <li>✔ Building Teams</li>
+        <li>✔ Round Trip</li>
+        <li>✔ Monsters</li>
+        <li>✔ Shortest Routes I</li>
+        <li>✔ Shortest Routes II</li>
+        <li>❔ High Score</li>
+        <li>❔ Flight Discount</li>
+        <li>❔ Cycle Finding</li>
+        <li>❔ Flight Routes</li>
+        <li>❔ Round Trip II</li>
+        <li>❔ Couse Schedule</li>
+        <li>❔ Longest Flight Route</li>
+        <li>❔ Game Routes</li>
+        <li>❔ Investigation</li>
+        <li>❔ Planets Queries I</li>
+        <li>❔ Planets Queries II</li>
+        <li>❔ Planets Cycles</li>
+        <li>❔ Road Reparation</li>
+        <li>❔ Road Construction</li>
+        <li>❔ Flight Routes Check</li>
+        <li>❔ Planets and Kingdoms</li>
+        <li>❔ Giant Pizza</li>
+        <li>❔ Coin Collector</li>
+        <li>❔ Mail Delivery</li>
+        <li>❔ De Bruijn Sequence</li>
+        <li>❔ Teleporters Path</li>
+        <li>❔ Hamiltonian Flights</li>
+        <li>❔ Knight's Tour</li>
+        <li>❔ Download Speed</li>
+        <li>❔ Police Chase</li>
+        <li>❔ School Dance</li>
+        <li>❔ Distinct Routes</li>
+    </ul>
+</details>
+<details>
+    <summary>📁 Range Queries</summary>
+    <ul>
+        <li>❔ Static Range Sum Queries</li>
+        <li>❔ Static Range Minimum Queries</li>
+        <li>❔ Dynamic Range Sum Queries</li>
+        <li>❔ Dynamid Range Minimum Queries</li>
+        <li>❔ Range Xor Queries</li>
+        <li>❔ Forest Queries</li>
+        <li>❔ Hotel Queries</li>
+        <li>❔ List Removals</li>
+        <li>❔ Salary Queries</li>
+        <li>❔ Prefix Sum Queries</li>
+        <li>❔ Pizzeria Queries</li>
+        <li>❔ Subarray Sum Queries</li>
+        <li>❔ Distinct Values Queries</li>
+        <li>❔ Increasing Array Queries</li>
+        <li>❔ Forest Queries II</li>
+        <li>❔ Range Updates and Sums</li>
+        <li>❔ Polynomial Queries</li>
+        <li>❔ Range Queries and Copies</li>
+    </ul>
+</details>
+<details>
+    <summary>📁 Tree Algorithms</summary>
+    <ul>
+        <li>❔ Subordinates</li>
+        <li>❔ Tree Matching</li>
+        <li>❔ Tree Diameter</li>
+        <li>❔ Tree Distances I</li>
+        <li>❔ Tree Distances II</li>
+        <li>❔ Company Queries I</li>
+        <li>❔ Company Queries II</li>
+        <li>❔ Distance Queries</li>
+        <li>❔ Counting Paths</li>
+        <li>❔ Subtree Queries</li>
+        <li>❔ Path Queries</li>
+        <li>❔ Path Queries II</li>
+        <li>❔ Distinct Colors</li>
+        <li>❔ Finding a Centroid</li>
+        <li>❔ Fixed-Lenght Paths I</li>
+        <li>❔ Fixed-Lenght Paths II</li>
+    </ul>
+</details>
+<details>
+    <summary>📁 Mathematics</summary>
+    <ul>
+        <li>❔ Josephus Queries</li>
+        <li>❔ Exponentiation</li>
+        <li>❔ Exponentiation II</li>
+        <li>❔ Counting Divisors</li>
+        <li>❔ Common Divisors</li>
+        <li>❔ Sum of Divisors</li>
+        <li>❔ Divisor Analysis</li>
+        <li>❔ Prime Multiples</li>
+        <li>❔ Counting Coprime Pairs</li>
+        <li>❔ Binomial Coefficients</li>
+        <li>❔ Creating Strings II</li>
+        <li>❔ Distributing Apples</li>
+        <li>❔ Christmas Party</li>
+        <li>❔ Bracket Sequences I</li>
+        <li>❔ Bracket Sequences II</li>
+        <li>❔ Counting Necklaces</li>
+        <li>❔ Counting Grids</li>
+        <li>❔ Fibonacci Numbers</li>
+        <li>❔ Throwing Dice</li>
+        <li>❔ Graph Paths I</li>
+        <li>❔ Graph Paths II</li>
+        <li>❔ Dice Probability</li>
+        <li>❔ Moving Robots</li>
+        <li>❔ Candy Lottery</li>
+        <li>❔ Inversion Probability</li>
+        <li>❔ Stick Game</li>
+        <li>❔ Nim Game I</li>
+        <li>❔ Nim Game II</li>
+        <li>❔ Stair Game</li>
+        <li>❔ Grundy's Game</li>
+        <li>❔ Another Game</li>
+    </ul>
+</details>
+<details>
+    <summary>📁 String Algorithms</summary>
+    <ul>
+        <li>❔ Word Combinations</li>
+        <li>❔ String Matching</li>
+        <li>❔ Finding Borders</li>
+        <li>❔ Finding Periods</li>
+        <li>❔ Minimal Rotation</li>
+        <li>❔ Longest Palindrome</li>
+        <li>❔ Required Substring</li>
+        <li>❔ Palindrome Queries</li>
+        <li>❔ Finding Patterns</li>
+        <li>❔ Counting Patterns</li>
+        <li>❔ Pattern Positions</li>
+        <li>❔ Distinct Substrings</li>
+        <li>❔ Repeating Substring</li>
+        <li>❔ String Functions</li>
+        <li>❔ Substring Order I</li>
+        <li>❔ Substring Order II</li>
+        <li>❔ Substring Distribution</li>
+    </ul>
+</details>
+<details>
+    <summary>📁 Geometry</summary>
+    <ul>
+        <li>❔ Point Location Test</li>
+        <li>❔ Line Segment Intersection</li>
+        <li>❔ Polygon Area</li>
+        <li>❔ Point in Polygon</li>
+        <li>❔ Polygon Lattice Points</li>
+        <li>❔ Minimum Euclidean Distance</li>
+        <li>❔ Convex Hull</li>
+    </ul>
+</details>
+<details>   
+    <summary>📁 Advanced Techniques</summary>
+    <ul>
+        <li>❔ Meet in the Middle</li>
+        <li>❔ Hamming Distance</li>
+        <li>❔ Beautiful Subgrids</li>
+        <li>❔ Reachable Nodes</li>
+        <li>❔ Reachability Queries</li>
+        <li>❔ Cut and Paste</li>
+        <li>❔ Substring Reversals</li>
+        <li>❔ Reversals and Sums</li>
+        <li>❔ Necessary Roads</li>
+        <li>❔ Necessary Cities</li>
+        <li>❔ Eulerian Subgraphs</li>
+        <li>❔ Monster Game I</li>
+        <li>❔ Monster Game II</li>
+        <li>❔ Subarray Squares</li>
+        <li>❔ Houses and Schools</li>
+        <li>❔ Knuth Division</li>
+        <li>❔ Apples and Bananas</li>
+        <li>❔ One Bit Positions</li>
+        <li>❔ Signal Processing</li>
+        <li>❔ New Roads Queries</li>
+        <li>❔ Dynamic Connectivity</li>
+        <li>❔ Parcel Delivery</li>
+        <li>❔ Task Assignment</li>
+        <li>❔ Distinct Routes II</li>
+    </ul>
+</details>
+<details>    
+    <summary>📁 Additional Problems</summary>
+    <ul>
+        <li>❔ Shortest Subsequence</li>
+        <li>❔ Counting Bits</li>
+        <li>❔ Swap Game</li>
+        <li>❔ Prüfer Code</li>
+        <li>❔ Acyclic Graph Edges</li>
+        <li>❔ Strongly Connected Edges</li>
+        <li>❔ Even Outdegree Edges</li>
+        <li>❔ Multiplication Table</li>
+        <li>❔ Advertisement</li>
+        <li>❔ Special Substrings</li>
+        <li>❔ Permutation Inversions</li>
+        <li>❔ Maximum Xor Subarray</li>
+        <li>❔ Movie Festival Queries</li>
+        <li>❔ Chess Tournament</li>
+        <li>❔ Tree Traversals</li>
+        <li>❔ Network Renovation</li>
+        <li>❔ Graph Girth</li>
+        <li>❔ Intersection Points</li>
+        <li>❔ Inverse Inversions</li>
+        <li>❔ Monotone Subsequences</li>
+        <li>❔ String Reorder</li>
+        <li>❔ Stack Weights</li>
+        <li>❔ Pyramid Array</li>
+        <li>❔ Increasing Subsequence II</li>
+        <li>❔ String Removals</li>
+        <li>❔ Bit Inversions</li>
+        <li>❔ Xor Pyramid</li>
+        <li>❔ Writing Numbers</li>
+        <li>❔ String Transform</li>
+        <li>❔ Letter Pair Move Game</li>
+        <li>❔ Maximum Building I</li>
+        <li>❔ Sorting Methods</li>
+        <li>❔ Cyclic Array</li>
+        <li>❔ List of Sums</li>
+        <li>❔ Increasing Array II</li>
+        <li>❔ Food Division</li>
+        <li>❔ Bit Problem</li>
+        <li>❔ Swap Round Sorting</li>
+        <li>❔ Binary Subsequences</li>
+        <li>❔ Tree Isomorphism I</li>
+        <li>❔ Counting Sequences</li>
+        <li>❔ Critical Cities</li>
+        <li>❔ School Excursion</li>
+        <li>❔ Coin Grid</li>
+        <li>❔ Robot Path</li>
+        <li>❔ Programmers and Artists</li>
+        <li>❔ Course Schedule II</li>
+        <li>❔ Removing Digits II</li>
+        <li>❔ Coin Arrangement</li>
+        <li>❔ Counting Bishops</li>
+        <li>❔ Grid Puzzle I</li>
+        <li>❔ Grid Puzzle II</li>
+        <li>❔ Empty String</li>
+        <li>❔ Grid Paths</li>
+        <li>❔ Bit Substrings</li>
+        <li>❔ Reversal Sorting</li>
+        <li>❔ Counting Reorders</li>
+        <li>❔ Book Shop II</li>
+        <li>❔ Network Breakdown</li>
+        <li>❔ Visiting Cities</li>
+        <li>❔ Missing Coin Sum Queries</li>
+        <li>❔ Number Grid</li>
+        <li>❔ Maximum Building II</li>
+        <li>❔ Filling Trominos</li>
+        <li>❔ Stick Divisions</li>
+        <li>❔ Coding Company</li>
+        <li>❔ Flight Route Requests</li>
+        <li>❔ Two Stacks Sorting</li>
+        <li>❔ Tree Isomorphism II</li>
+        <li>❔ Forbidden Cities</li>
+        <li>❔ Area of Rectangles</li>
+        <li>❔ Grid Completion</li>
+        <li>❔ Creating Offices</li>
+        <li>❔ Permutations II</li>
+        <li>❔ Functional Graph Distribution</li>
+        <li>❔ New Flight Routes</li>
+        <li>❔ Grid Path Construction</li>
+    </ul>
+</details>    
 
 Each solution includes:
 - The code implementation.
