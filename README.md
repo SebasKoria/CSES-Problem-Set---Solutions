@@ -9,7 +9,7 @@ The **CSES Problem Set** is a collection of competitive programming problems des
 The solutions are organized into directories based on the problem categories available on the CSES platform:
 
 <details>
-    <summary> 📁 Introductory Problems </summary>
+    <summary>📁 Introductory Problems</summary>
     <ul>
         <li>✔ Weird Algorithm</li>
         <li>✔ Missing Number</li>
@@ -31,9 +31,9 @@ The solutions are organized into directories based on the problem categories ava
         <li>❔ Digit Queries</li>
         <li>❔ Grid Paths</li>
     </ul>
-</details>\
+</details>
 <details>
-    <summary> 📁 Sorting and Searching </summary>
+    <summary>📁 Sorting and Searching</summary>
     <ul>
         <li>✔ Distinct Numbers</li>
         <li>✔ Apartments</li>
@@ -72,27 +72,31 @@ The solutions are organized into directories based on the problem categories ava
         <li>❔ Maximum Subarray Sum II</li>
     </ul>
 </details>
+<details>
+    <summary>📁 Dynamic Programming</summary>
+    <ul>
+        <li>✔ Dice Combinations</li>
+        <li>✔ Minimizing Coins</li>
+        <li>✔ Coin Combinations I</li>
+        <li>❔ Coin Combinations II</li>
+        <li>❔ Removing Digits</li>
+        <li>❔ Grid Paths</li>
+        <li>❔ Book Shop</li>
+        <li>❔ Array Description</li>
+        <li>❔ Counting Towers</li>
+        <li>❔ Edit Distance</li>
+        <li>❔ Rectangle Cutting</li>
+        <li>❔ Money Sums</li>
+        <li>❔ Removal Game</li>
+        <li>❔ Two Sets II</li>
+        <li>❔ Increasing Subsequence</li>
+        <li>❔ Projects</li>
+        <li>❔ Elevator Rides</li>
+        <li>❔ Counting Tilings</li>
+        <li>❔ Counting Numbers</li>
+    </ul>
+</details>
 
-└── 📁 Dynamic Programming/\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Dice Combinations\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Minimizing Coins\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Coin Combinations I\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Coin Combinations II\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Removing Digits\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Grid Paths\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Book Shop\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Array Description\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Counting Towers\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Edit Distance\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Rectangle Cutting\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Money Sums\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Removal Game\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Two Sets II\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Increasing Subsequence\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Projects\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Elevator Rides\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Counting Tilings\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ❔ Counting Numbers\
 └── 📁 Graph Algorithms/\
     ├── ✔ Counting Rooms\
     ├── ✔ Labyrinth\
