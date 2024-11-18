@@ -363,8 +363,7 @@ The solutions are organized into directories based on the problem categories ava
     </ul>
 </details>    
 
-Each solution includes:
-- The code implementation.
+Each solution includes the code implementation.
 
 ## 🔧 Tools and Technologies
 - **Programming Language:** C++ (and sometimes Python)
@@ -373,7 +372,7 @@ Each solution includes:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cses-solutions.git
+   git clone https://github.com/SebasKoria/CSES-Problem-Set---Solutions.git
    ```
 2. Navigate to the desired problem category.
 3. Open the relevant file to view the solution.
