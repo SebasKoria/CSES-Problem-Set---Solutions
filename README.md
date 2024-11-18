@@ -11,26 +11,28 @@ The solutions are organized into directories based on the problem categories ava
 📂 solutions/\
 └── 📁 Introductory Problems/\
 <details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Weird Algorithm\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Missing Number\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Repetitions\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Increasing Array\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Permutations\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Number Spiral\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Two Knights\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Two Sets\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Bit Strings\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Trailing Zeros\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Coin Piles\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Palindrome Reorder\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Gray Code\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Tower of Hanoi\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Creating Strings\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Apple Division\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Chessboard and Queens\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Digit Queries\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ❔ Grid Paths\
+<summary> Introductory Problems </summary>
+├── ✔ Weird Algorithm\
+├── ✔ Missing Number\
+├── ✔ Repetitions\
+├── ✔ Increasing Array\
+├── ✔ Permutations\
+├── ✔ Number Spiral\
+├── ✔ Two Knights\
+├── ✔ Two Sets\
+├── ✔ Bit Strings\
+├── ✔ Trailing Zeros\
+├── ✔ Coin Piles\
+├── ✔ Palindrome Reorder\
+├── ✔ Gray Code\
+├── ❔ Tower of Hanoi\
+├── ❔ Creating Strings\
+├── ❔ Apple Division\
+├── ❔ Chessboard and Queens\
+├── ❔ Digit Queries\
+└── ❔ Grid Paths\
 </details>
+
 └── 📁 Sorting and Searching/\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Distinct Numbers\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Apartments\
