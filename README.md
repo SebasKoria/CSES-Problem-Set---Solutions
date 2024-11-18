@@ -31,7 +31,7 @@ The solutions are organized into directories based on the problem categories ava
         <li>❔ Digit Queries</li>
         <li>❔ Grid Paths</li>
     </ul>
-</details>
+</details>\
 <details>
     <summary> 📁 Sorting and Searching </summary>
     <ul>
