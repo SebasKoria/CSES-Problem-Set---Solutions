@@ -8,6 +8,7 @@ The **CSES Problem Set** is a collection of competitive programming problems des
 ## 🗂️ Repository Structure & Progress
 The solutions are organized into directories based on the problem categories available on the CSES platform:
 
+## 33 Problems solved out of 300
 <details>
     <summary>📁 Introductory Problems</summary>
     <ul>
