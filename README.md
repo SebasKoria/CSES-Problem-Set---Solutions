@@ -10,7 +10,7 @@ The solutions are organized into directories based on the problem categories ava
 
 📂 solutions/\
 └── 📁 Introductory Problems/\
-&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Weird Algorithm\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Weird Algorithm\
     ├── ✔ Missing Number\
     ├── ✔ Repetitions\
     ├── ✔ Increasing Array\
