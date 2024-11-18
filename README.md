@@ -12,25 +12,27 @@ The solutions are organized into directories based on the problem categories ava
 └── 📁 Introductory Problems/\
 <details>
     <summary> Introductory Problems </summary>
-        - ✔ Weird Algorithm\
-        - ✔ Missing Number\
-        - ✔ Repetitions\
-        - ✔ Increasing Array\
-        - ✔ Permutations\
-        - ✔ Number Spiral\
-        - ✔ Two Knights\
-        - ✔ Two Sets\
-        - ✔ Bit Strings\
-        - ✔ Trailing Zeros\
-        - ✔ Coin Piles\
-        - ✔ Palindrome Reorder\
-        - ✔ Gray Code\
-        - ❔ Tower of Hanoi\
-        - ❔ Creating Strings\
-        - ❔ Apple Division\
-        - ❔ Chessboard and Queens\
-        - ❔ Digit Queries\
-        - ❔ Grid Paths\
+    <ul>
+        <li>✔ Weird Algorithm\</li>
+        <li>✔ Missing Number\</li>
+        <li>✔ Repetitions\</li>
+        <li>✔ Increasing Array\</li>
+        <li>✔ Permutations\</li>
+        <li>✔ Number Spiral\</li>
+        <li>✔ Two Knights\</li>
+        <li>✔ Two Sets\</li>
+        <li>✔ Bit Strings\</li>
+        <li>✔ Trailing Zeros\</li>
+        <li>✔ Coin Piles\</li>
+        <li>✔ Palindrome Reorder\</li>
+        <li>✔ Gray Code\</li>
+        <li>❔ Tower of Hanoi\</li>
+        <li>❔ Creating Strings\</li>
+        <li>❔ Apple Division\</li>
+        <li>❔ Chessboard and Queens\</li>
+        <li>❔ Digit Queries\</li>
+        <li>❔ Grid Paths\</li>
+    </ul>
 </details>
 
 └── 📁 Sorting and Searching/\
