@@ -12,7 +12,7 @@ The solutions are organized into directories based on the problem categories ava
 └── 📁 Introductory Problems/\
 <details>
     <summary> Introductory Problems </summary>
-    <ul style="list-style-type:none;">
+    <ul>
         <li>✔ Weird Algorithm</li>
         <li>✔ Missing Number</li>
         <li>✔ Repetitions</li>
@@ -36,41 +36,46 @@ The solutions are organized into directories based on the problem categories ava
 </details>
 
 └── 📁 Sorting and Searching/\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Distinct Numbers\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Apartments\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Ferris Wheel\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Concert Tickets\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Restaurant Customers\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Movie Festival\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Sum of Two Values\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Maximum Subarray Sum\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Stick Lengths\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Missing Coin Sum\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Collecting Numbers\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Collecting Numbers II\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Playlist\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Towers\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Traffic Lights\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Josephus Problem I\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Josephus Problem II\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Nested Ranges Check\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Nested Ranges Count\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Room Allocation\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Factory Machines\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Tasks and Deadlines\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Reading Books\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sum of Three Values\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sum of Four Values\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Nearest Smaller Values\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Sums I\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Sums II\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Divisibility\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Subarray Distinct Values\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Array Division\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sliding Window Median\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Sliding Window Cost\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ❔ Movie Festival II\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ❔ Maximum Subarray Sum II\
+<details>
+    <ul>
+        <li>✔ Distinct Numbers</li>
+        <li>✔ Apartments</li>
+        <li>✔ Ferris Wheel</li>
+        <li>✔ Concert Tickets</li>
+        <li>✔ Restaurant Customers</li>
+        <li>✔ Movie Festival</li>
+        <li>✔ Sum of Two Values</li>
+        <li>✔ Maximum Subarray Sum</li>
+        <li>❔ Stick Lengths</li>
+        <li>❔ Missing Coin Sum</li>
+        <li>❔ Collecting Numbers</li>
+        <li>❔ Collecting Numbers II</li>
+        <li>❔ Playlist</li>
+        <li>❔ Towers</li>
+        <li>❔ Traffic Lights</li>
+        <li>❔ Josephus Problem I</li>
+        <li>❔ Josephus Problem II</li>
+        <li>❔ Nested Ranges Check</li>
+        <li>❔ Nested Ranges Count</li>
+        <li>❔ Room Allocation</li>
+        <li>❔ Factory Machines</li>
+        <li>❔ Tasks and Deadlines</li>
+        <li>❔ Reading Books</li>
+        <li>❔ Sum of Three Values</li>
+        <li>❔ Sum of Four Values</li>
+        <li>❔ Nearest Smaller Values</li>
+        <li>❔ Subarray Sums I</li>
+        <li>❔ Subarray Sums II</li>
+        <li>❔ Subarray Divisibility</li>
+        <li>❔ Subarray Distinct Values</li>
+        <li>❔ Array Division</li>
+        <li>❔ Sliding Window Median</li>
+        <li>❔ Sliding Window Cost</li>
+        <li>❔ Movie Festival II</li>
+        <li>❔ Maximum Subarray Sum II</li>
+    </ul>
+</details>
+
 └── 📁 Dynamic Programming/\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Dice Combinations\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ✔ Minimizing Coins\
