@@ -28,8 +28,8 @@ The solutions are organized into directories based on the problem categories ava
         <li>✔ Palindrome Reorder</li>
         <li>✔ Gray Code</li>
         <li>❔ Tower of Hanoi</li>
-        <li>❔ Creating Strings</li>
-        <li>❔ Apple Division</li>
+        <li>✔ Creating Strings</li>
+        <li>✔ Apple Division</li>
         <li>❔ Chessboard and Queens</li>
         <li>❔ Digit Queries</li>
         <li>❔ Grid Paths</li>
