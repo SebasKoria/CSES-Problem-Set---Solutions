@@ -6,7 +6,7 @@ Welcome to my repository of solutions to the problems from the [CSES Problem Set
 The **CSES Problem Set** is a collection of competitive programming problems designed to test and enhance problem-solving skills. It is widely recognized as a valuable resource for aspiring competitive programmers.
 
 ## Progress
-33 Problems solved out of 300
+38 Problems solved out of 300
 
 ## 🗂️ Repository Structure
 The solutions are organized into directories based on the problem categories available on the CSES platform:
@@ -30,8 +30,8 @@ The solutions are organized into directories based on the problem categories ava
         <li>❔ Tower of Hanoi</li>
         <li>✔ Creating Strings</li>
         <li>✔ Apple Division</li>
-        <li>❔ Chessboard and Queens</li>
-        <li>❔ Digit Queries</li>
+        <li>✔ Chessboard and Queens</li>
+        <li>✔ Digit Queries</li>
         <li>❔ Grid Paths</li>
     </ul>
 </details>
@@ -46,7 +46,7 @@ The solutions are organized into directories based on the problem categories ava
         <li>✔ Movie Festival</li>
         <li>✔ Sum of Two Values</li>
         <li>✔ Maximum Subarray Sum</li>
-        <li>❔ Stick Lengths</li>
+        <li>✔ Stick Lengths</li>
         <li>❔ Missing Coin Sum</li>
         <li>❔ Collecting Numbers</li>
         <li>❔ Collecting Numbers II</li>
