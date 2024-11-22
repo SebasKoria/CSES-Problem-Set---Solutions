@@ -48,7 +48,7 @@ The solutions are organized into directories based on the problem categories ava
         <li>✔ Maximum Subarray Sum</li>
         <li>✔ Stick Lengths</li>
         <li>❔ Missing Coin Sum</li>
-        <li>❔ Collecting Numbers</li>
+        <li>✔ Collecting Numbers</li>
         <li>❔ Collecting Numbers II</li>
         <li>❔ Playlist</li>
         <li>❔ Towers</li>
